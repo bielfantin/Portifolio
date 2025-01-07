@@ -355,3 +355,6 @@ footer {
     overflow: hidden;
   }
 }
+#site{
+  max-width: 500px;
+}
